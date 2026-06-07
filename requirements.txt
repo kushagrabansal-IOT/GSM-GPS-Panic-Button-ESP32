@@ -1,0 +1,6 @@
+# Arduino Library Dependencies
+# Install via: Arduino IDE → Tools → Manage Libraries
+
+TinyGSM==0.11.7        # by Volodymyr Shymanskyy — GSM/GPRS modem library
+TinyGPS++==1.0.3       # by Mikal Hart — GPS NMEA parsing
+HardwareSerial         # Built-in ESP32
